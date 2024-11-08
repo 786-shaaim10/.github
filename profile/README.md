@@ -1,9 +1,9 @@
 ## Development for Mi439 by Shaaim 
 
+<img align="right" width="350" height="350" src="https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-8-3.jpg">
 ## Spec Sheet
 
-| Feature                 | Specification                     |    <img align="right" width="350" height="350" src="https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-8-3.jpg">
-
+| Feature                 | Specification                     |    
 | :---------------------- | :-------------------------------- |
 | CPU                     | Octa-core 2.0 GHz Cortex-A53      |
 | Chipset                 | Qualcomm MSM8937 Snapdragon 439   |
