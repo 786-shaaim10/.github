@@ -1,6 +1,9 @@
 ## Development for Mi439 by Shaaim 
 
+This organization contains all the important repositories required to build AOSP ROMs for Mi439.
+
 <img align="right" width="350" height="350" src="https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-8-3.jpg">
+
 ## Spec Sheet
 
 | Feature                 | Specification                     |    
@@ -19,7 +22,6 @@
 | Front Camera            | 8 MP                              |
 | Release Date            | October 2019
 
-This organization contains all the important repositories required to build AOSP ROMs for Mi439.
 
 ### Repositories
 * [**Device Tree**](https://github.com/Gtajisan/device/xiaomi/mi439) (`device/xiaomi/mi439`)
