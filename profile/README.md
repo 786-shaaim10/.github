@@ -7,7 +7,7 @@
 | CPU                     | Octa-core 2.0 GHz Cortex-A53      |
 | Chipset                 | Qualcomm MSM8937 Snapdragon 439   |
 | GPU                     | Adreno 505                        |
-| Memory                  | 3/4 GB                            |
+| Memory                  | 2/3/4 GB                            |
 | Shipped Android Version | 9.0.0                             |
 | Storage                 | 32/64 GB                          |
 | MicroSD                 | Up to 512 GB                      |
