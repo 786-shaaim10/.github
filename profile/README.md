@@ -8,5 +8,5 @@ This organization contains all the important repositories required to build AOSP
 * [**Kernel Tree**](https://github.com/Jprimero15/android_kernel_xiaomi_sdm439-4.19) (`android_kernel_xiaomi_sdm439-4.19`)
 * [**Vendor Tree**](https://github.com/LOLZKERNEL/proprietary_vendor_xiaomi_mi439-4.19) (`proprietary_vendor_xiaomi_mi439`)
 * [**Oplus Hardware Tree**](https://github.com/MI439-CLO/android_hardware_mithorium-4.19) (`android_hardware_mithorium-4.19`)
-* [**qcom Hardware Tree**](https://github.com/realme-mt6781-dev/android_hardware_mediatek) (`android_hardware_mediatek`)
+* [**qcom Hardware Tree**](https://github.com/MI439-CLO/android_hardware_qcom_gps) (`android_hardware_qcom_gps`)
 * [**Manifests**](https://github.com/Gtajisan/local_manifests_clo) (`local_manifests`)
