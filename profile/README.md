@@ -1,6 +1,5 @@
 ## Development for redmi 8a (`olives`) aka f#rn x shaaim
-<img align="right" width="350" height="350" src="![17310843340469068537297819005235](https://github.com/user-attachments/assets/0818fe3a-8bc3-44d2-b79c-7dacc64cefb4)
-">
+<img align="right" width="350" height="350" src="https://images.app.goo.gl/pTaKnuz7nwPFjNXi9">
 
 This organization contains all the important repositories required to build AOSP ROMs for Realme 8i.
 
