@@ -18,8 +18,8 @@ This organization contains all the important repositories required to build AOSP
 | Display                 | 720x1520 pixels, 6.22 (~270 PPI)  |
 | Rear Camera             | 12 MP, 2MP (depth), LED flash     |
 | Front Camera            | 8 MP                              |
-| Release Date            | October 2024
-
+| Release Date            | October 2019                      |
+| Maintainer              | Shaaim                            |
 
 
 
