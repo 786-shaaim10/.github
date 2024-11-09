@@ -4,7 +4,7 @@ This organization contains all the important repositories required to build AOSP
 
 
 **notes**
-no more 🏳️‍🌈 homophobic allow 
+no more 🏳️‍🌈 homophobic not allow.
 
 ## Spec Sheet
 
