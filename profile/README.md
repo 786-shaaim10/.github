@@ -3,9 +3,6 @@
 This organization contains all the important repositories required to build AOSP ROMs for Mi439.
 
 
-**notes** :-
-no more 🏳️‍🌈 homophobic not allow.
-
 ## Spec Sheet
 
 | Feature                 | Specification                     |    
